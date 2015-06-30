@@ -2,4 +2,4 @@
 
 A repository for learning about git commands.
 
-This repository is a little teapot.
+This repository is a little bit strange.
